@@ -1,53 +1,67 @@
-# Jekyll-Avalon
-[Demo](http://joshuaavalon.github.io/Jekyll-Avalon)
-![](https://raw.githubusercontent.com/joshuaavalon/Jekyll-Avalon/master/_screenshot/001.png)
+                .::         .::                       .::      .::                 
+                .::       .:.::                        .::   .::                    
+                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
+                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
+                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
+                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
+                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
+                          Copyright (c) 2016-2018 liberxue
+                                 http://www.liberxue.com
+                           
+#### liberxue.github.io preview (demo) (http://www.liberxue.com)
 
-## About
-Jekyll-Avalon is a [Materialize](https://github.com/dogfalo/materialize) Jekyll theme.
+#### `Jekyll Themes`
+----------
+[简体中文版帮助文档README](/ChinaREADME.md)
+#### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
 
-Featuring:
-* Material Design
-* Responsive Web Design
-* Tags and categories browsing
-* Lazy loading images
+#### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
+#### The second step is to modify the _config.yml in URL for your domain name
 
-## Installation
-This theme **CANNOT** be built by GitHub. You have to build it yourself.
-Please follows the following question.
+#### OK all right, it's that simple
 
-1. Are you willing to do extra works other than just blogging?
+#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
 
- Yes > 3
+- [x] Automatic generation tag
+- [x] Automatic generation of JSON search
+- [x] Adaptive template
+- [x] Automatic generation of feed.xml
+- [x] Automatic paging generation
+- [x] Modify _config.yml's links for your menu
+- [x] Modify the _config.yml of paginate for how many pages you want to page
+
+![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
+
+ ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
+
+ ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
+
+ ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
+
+  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
+
+ ----------
+![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
+
+#### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
  
- No > 2
+----
 
-2. Are you willing to other git service like GitLab?
+![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
+  
+  
 
- Yes > Upload this repository to GitLab. It will auto-deploy like GitHub. Make sure you have turn on the GitLab Runner.
+
+#### 2. modify _config.yml url URL for your domain
+
+![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
+  
+
+
+
+* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
  
- No > This theme is not for you.
+* [Email](mailto:liberxue@gmail.com)
+ 
+* [Twitter](https://twitter.com/liberxue).
 
-3. Install Ruby if you don't have it. In you are using Windows, you may want to try [Ruby Installer](http://rubyinstaller.org/).
-
-4. Install Jekyll and Bundler if you don't have it. Run the following commands in command prompt to install the packages.
- ```
- gem install jekyll bundler
- ```
-
-5. cd to your repository directory. Run the following command in command prompt to build.
- ```
- bundle exec jekyll serve
- ```
-6. Upload the content in `_site` to GitHub or your host.
-
-## Config
-Change everything you need in `_config.yml`. Change the footer in `_includes/footer.html`.
-
-If you want to change the color, go [here](https://github.com/dogfalo/materialize) to download SASS version 
-and replace the link in `_includes/head.html`.
-
-For comment support, you can use [Disqus](https://disqus.com/) and add the embed code to `_layouts/post.html`.
-Same for Google Analytics, add the embed code to `_includes/script.html`.
-
-## Post
-All the usable fields available are in `2016-10-27-welcome-to-jekyll.markdown`.
